@@ -199,7 +199,7 @@ namespace Text_RPG_Console
                 isEquipped = tempEq;
             }
         }
-
+        //라라라
         // 상점 아이템의 정보를 담는 클래스
         class ShopItem
         {
