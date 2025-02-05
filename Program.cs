@@ -385,6 +385,7 @@ namespace Text_RPG_Console
                     default:
                         Console.WriteLine("잘못된 입력입니다.");
                         continue;
+                        //ss
                 }
             }
         }
